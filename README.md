@@ -21,7 +21,7 @@ Passionné par le développement logiciel et les nouvelles technologies, j'aime 
 
 ## Me contacter
 - Email : [karldansi@yahoo.com](mailto:karl_dev@yahoo.com)
-- LinkedIn : [Karldansi](www.linkedin.com/in/karl-dansi-198b87239)
+- LinkedIn : (www.linkedin.com/in/karl-dansi-198b87239)
 
 
 ## Statistiques GitHub
